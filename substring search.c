@@ -30,7 +30,7 @@ void main()
 	{
 		j=0;
 		l=i;	
-		if(b[j]==a[i])													//not tryed
+		if(b[j]==a[i])											//not tryed
 		{
 			
 			while(j<m)
